@@ -1,0 +1,5 @@
+GitPython
+pandas
+numpy
+seaborn
+loguru
